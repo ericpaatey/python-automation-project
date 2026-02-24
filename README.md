@@ -1,6 +1,6 @@
 # python-automation-project
-<strong>TECH STACK</strong: Terraform • AWS ECS/Fargate • Docker • GitHub Actions <br><br>
-<strong>PROJECT DESCRIPTION:</STRONG><br>
+<strong>TECH STACK</strong>: Terraform • AWS ECS/Fargate • Docker • GitHub Actions <br><br>
+<strong>PROJECT DESCRIPTION:</strong><br>
 The project comprises:<br>
  - a python-based web app with a Dockerfile for deployment as a containerized application on
 AWS Elastic Container Service (ECS). <br>
