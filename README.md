@@ -8,6 +8,6 @@ AWS Elastic Container Service (ECS). <br>
 CloudWatch (for logging/monitoring) needed to run the web app. <br>
  - A CI/CD pipeline built on GitHub Actions which automatically deploys the app to the AWS
 provisioned infrastructure. <br><br>
-BENEFITS:<br>
+<strong>BENEFITS:</strong><br>
  - Eliminates manual deployments and any configuration drift.<br>
  - The entire stack is reproducible in minutes.<br>
