@@ -1,6 +1,6 @@
 # DevOps Automation Toolkit (Python)
 
-A collection of Python scripts designed to automate repetitive SRE/DevOps tasks, improve system reliability, and reduce operational toil.
+A collection of Python scripts designed to automate common SRE/DevOps tasks including application monitoring with auto-recovery, EC2 snapshot management, infrastructure health checks, and Kubernetes (EKS) cluster monitoring. Built to reduce operational toil, improve reliability, and enable faster incident response.
 
 ---
 
